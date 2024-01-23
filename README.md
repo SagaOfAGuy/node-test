@@ -1,2 +1,2 @@
 # node-test
-Node test app
+Node test app for ExpressJS
